@@ -111,7 +111,7 @@ Informações para entrar em contato comigo.
 Você pode acessar o portfólio através do link:
 
 ```
-[Meu Portifolio](https://meu-portifolio-eight-woad.vercel.app/)
+**[Meu Portifolio](https://meu-portifolio-eight-woad.vercel.app/)**
 ```
 
 ---
