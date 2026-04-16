@@ -1,6 +1,6 @@
 # 💼 Portfólio - Samuel Castro
 
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e informações de contato como **Desenvolvedor Back-End em formação**.
+Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e informações de contato como **Desenvolvedor Full-Stack em formação**.
 
 ---
 
